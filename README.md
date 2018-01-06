@@ -1,1 +1,3 @@
 Nexys4_Radix4Multiplier
+
+Implentation based on design described in '2016_Computers_LUT_ArrayMultipliers'
